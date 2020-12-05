@@ -1,5 +1,5 @@
 # AI Mentorship
-Classifying EMG streams on the Myo armband with Keras and TensorFlow
+Classifying EMG streams on a Myo armband with Keras and TensorFlow
 
 _Virginia Commonwealth University, 2019-2020_
 
