@@ -11,7 +11,7 @@ _Virginia Commonwealth University, 2019-2020_
 * [Repository files](#Repository-files)
 
 ## Rationale
-Using a [Myo armband](https://developerblog.myo.com/), I developed a wrist gesture classification algorithm in Python via machine learning models built in Keras and Google's TensorFlow. The rationale was to experiment with and develop a prototype solution for teleoperated robotics and haptic feedback systems, using this armband as a controller. "Telerobotics" thus deals with remote controls for potentially hazardous and distance environments such as toxic waste sites, climate disaster zones, and undersea. My program is a proof of concept for a real-time system that can reach an accuracy of ~80% in classifying wrist gestures, and an ML model template for such time-based data.
+Using a [Myo armband](https://developerblog.myo.com/), I developed a wrist gesture classification algorithm in Python via machine learning models built in Keras and Google's TensorFlow. The rationale was to experiment with and develop a prototype solution for teleoperated robotics and haptic feedback systems, using this armband as a controller. "Telerobotics" thus deals with remote controls for potentially hazardous and distanced environments such as toxic waste sites, climate disaster zones, and underseas. My program is a proof of concept for a real-time system that can reach an accuracy of ~80% in classifying wrist gestures, and an ML model template for such time-based data.
 
 ## ML model structure
 ![A version of the ML model structure](https://github.com/ShivramR/AI-Mentorship/blob/main/model_graph.png)
