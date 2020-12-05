@@ -5,7 +5,7 @@ _Virginia Commonwealth University, 2019-2020_
 
 ## Table of contents
 * [Rationale](#Rationale)
-* [ML model structure)[#ML-model-structure]
+* [An ML model structure](#ML-model-structure)
 * [Accomplishments](#Accomplishments)
 * [Future work](#Future-work)
 * [Repository files](#Repository-files)
